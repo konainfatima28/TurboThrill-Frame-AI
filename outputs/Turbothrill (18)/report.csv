@@ -1,0 +1,13 @@
+video_name,frame_number,timestamp_seconds,spark_confidence,spark_pixel_count,spark_area,resolution,processing_time_seconds,saved_path
+Turbothrill (18).mp4,102,3.4,0.6068,131,102.5,360x640,0.00152,spark_0102.jpg
+Turbothrill (18).mp4,137,4.567,0.6213,29,17.0,360x640,0.00147,spark_0137.jpg
+Turbothrill (18).mp4,192,6.4,0.5654,147,105.0,360x640,0.00144,spark_0192.jpg
+Turbothrill (18).mp4,221,7.367,0.326,67,32.5,360x640,0.0013,spark_0221.jpg
+Turbothrill (18).mp4,234,7.8,0.5503,113,78.5,360x640,0.00127,spark_0234.jpg
+Turbothrill (18).mp4,303,10.1,0.647,134,104.0,360x640,0.00131,spark_0303.jpg
+Turbothrill (18).mp4,355,11.833,0.6668,11,5.0,360x640,0.00142,spark_0355.jpg
+Turbothrill (18).mp4,371,12.367,0.6231,22,11.5,360x640,0.00191,spark_0371.jpg
+Turbothrill (18).mp4,382,12.733,0.5362,62,35.5,360x640,0.00145,spark_0382.jpg
+Turbothrill (18).mp4,406,13.533,0.4611,16,6.5,360x640,0.00126,spark_0406.jpg
+Turbothrill (18).mp4,410,13.667,0.5283,32,18.5,360x640,0.00133,spark_0410.jpg
+Turbothrill (18).mp4,411,13.7,0.7024,35,22.0,360x640,0.00139,spark_0411.jpg

@@ -1,0 +1,18 @@
+video_name,frame_number,timestamp_seconds,spark_confidence,spark_pixel_count,spark_area,resolution,processing_time_seconds,saved_path
+Turbothrill (3).mp4,113,3.767,0.6899,104,56.5,360x640,0.00178,spark_0113.jpg
+Turbothrill (3).mp4,116,3.867,0.4117,21,7.0,360x640,0.00164,spark_0116.jpg
+Turbothrill (3).mp4,122,4.067,0.7996,184,124.0,360x640,0.0018,spark_0122.jpg
+Turbothrill (3).mp4,124,4.133,0.5795,66,41.0,360x640,0.00161,spark_0124.jpg
+Turbothrill (3).mp4,130,4.333,0.766,17,8.0,360x640,0.00147,spark_0130.jpg
+Turbothrill (3).mp4,138,4.6,0.4488,189,123.5,360x640,0.00177,spark_0138.jpg
+Turbothrill (3).mp4,143,4.767,0.6777,85,39.5,360x640,0.00201,spark_0143.jpg
+Turbothrill (3).mp4,151,5.033,0.6222,14,6.0,360x640,0.00179,spark_0151.jpg
+Turbothrill (3).mp4,156,5.2,0.5714,166,125.0,360x640,0.00268,spark_0156.jpg
+Turbothrill (3).mp4,171,5.7,0.7311,58,37.0,360x640,0.00211,spark_0171.jpg
+Turbothrill (3).mp4,175,5.833,0.6974,15,7.5,360x640,0.00147,spark_0175.jpg
+Turbothrill (3).mp4,177,5.9,0.7772,132,101.0,360x640,0.00175,spark_0177.jpg
+Turbothrill (3).mp4,187,6.233,0.6095,21,9.0,360x640,0.00192,spark_0187.jpg
+Turbothrill (3).mp4,200,6.667,0.638,37,22.5,360x640,0.00403,spark_0200.jpg
+Turbothrill (3).mp4,201,6.7,0.6242,76,43.5,360x640,0.00205,spark_0201.jpg
+Turbothrill (3).mp4,207,6.9,0.7721,10,4.0,360x640,0.00186,spark_0207.jpg
+Turbothrill (3).mp4,211,7.033,0.3372,21,9.0,360x640,0.00224,spark_0211.jpg

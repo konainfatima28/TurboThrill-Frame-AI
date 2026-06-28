@@ -1,0 +1,112 @@
+[
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 77,
+        "timestamp_seconds": 2.567,
+        "spark_confidence": 0.5929,
+        "spark_pixel_count": 105,
+        "spark_area": 49.0,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00148,
+        "saved_path": "spark_0077.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 79,
+        "timestamp_seconds": 2.633,
+        "spark_confidence": 0.7879,
+        "spark_pixel_count": 149,
+        "spark_area": 108.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.0018,
+        "saved_path": "spark_0079.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 81,
+        "timestamp_seconds": 2.7,
+        "spark_confidence": 0.4885,
+        "spark_pixel_count": 152,
+        "spark_area": 113.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00148,
+        "saved_path": "spark_0081.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 92,
+        "timestamp_seconds": 3.067,
+        "spark_confidence": 0.4941,
+        "spark_pixel_count": 110,
+        "spark_area": 64.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00165,
+        "saved_path": "spark_0092.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 101,
+        "timestamp_seconds": 3.367,
+        "spark_confidence": 0.3595,
+        "spark_pixel_count": 15,
+        "spark_area": 5.0,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00139,
+        "saved_path": "spark_0101.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 152,
+        "timestamp_seconds": 5.067,
+        "spark_confidence": 0.7093,
+        "spark_pixel_count": 378,
+        "spark_area": 250.0,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00175,
+        "saved_path": "spark_0152.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 165,
+        "timestamp_seconds": 5.5,
+        "spark_confidence": 0.4791,
+        "spark_pixel_count": 48,
+        "spark_area": 30.0,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00171,
+        "saved_path": "spark_0165.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 167,
+        "timestamp_seconds": 5.567,
+        "spark_confidence": 0.5016,
+        "spark_pixel_count": 34,
+        "spark_area": 20.0,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00162,
+        "saved_path": "spark_0167.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 171,
+        "timestamp_seconds": 5.7,
+        "spark_confidence": 0.7891,
+        "spark_pixel_count": 55,
+        "spark_area": 39.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00176,
+        "saved_path": "spark_0171.jpg"
+    },
+    {
+        "video_name": "Turbothrill (13).mp4",
+        "frame_number": 203,
+        "timestamp_seconds": 6.767,
+        "spark_confidence": 0.4387,
+        "spark_pixel_count": 64,
+        "spark_area": 40.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00155,
+        "saved_path": "spark_0203.jpg"
+    }
+]

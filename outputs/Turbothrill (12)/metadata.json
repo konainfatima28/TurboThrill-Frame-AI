@@ -1,0 +1,68 @@
+[
+    {
+        "video_name": "Turbothrill (12).mp4",
+        "frame_number": 17,
+        "timestamp_seconds": 0.567,
+        "spark_confidence": 0.7221,
+        "spark_pixel_count": 32,
+        "spark_area": 19.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00148,
+        "saved_path": "spark_0017.jpg"
+    },
+    {
+        "video_name": "Turbothrill (12).mp4",
+        "frame_number": 34,
+        "timestamp_seconds": 1.133,
+        "spark_confidence": 0.7249,
+        "spark_pixel_count": 39,
+        "spark_area": 22.0,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.0015,
+        "saved_path": "spark_0034.jpg"
+    },
+    {
+        "video_name": "Turbothrill (12).mp4",
+        "frame_number": 54,
+        "timestamp_seconds": 1.8,
+        "spark_confidence": 0.7991,
+        "spark_pixel_count": 10,
+        "spark_area": 4.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00125,
+        "saved_path": "spark_0054.jpg"
+    },
+    {
+        "video_name": "Turbothrill (12).mp4",
+        "frame_number": 129,
+        "timestamp_seconds": 4.3,
+        "spark_confidence": 0.413,
+        "spark_pixel_count": 15,
+        "spark_area": 4.0,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00138,
+        "saved_path": "spark_0129.jpg"
+    },
+    {
+        "video_name": "Turbothrill (12).mp4",
+        "frame_number": 164,
+        "timestamp_seconds": 5.467,
+        "spark_confidence": 0.6108,
+        "spark_pixel_count": 290,
+        "spark_area": 212.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00169,
+        "saved_path": "spark_0164.jpg"
+    },
+    {
+        "video_name": "Turbothrill (12).mp4",
+        "frame_number": 188,
+        "timestamp_seconds": 6.267,
+        "spark_confidence": 0.698,
+        "spark_pixel_count": 55,
+        "spark_area": 25.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00185,
+        "saved_path": "spark_0188.jpg"
+    }
+]

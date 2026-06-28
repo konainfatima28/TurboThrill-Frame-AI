@@ -1,0 +1,7 @@
+video_name,frame_number,timestamp_seconds,spark_confidence,spark_pixel_count,spark_area,resolution,processing_time_seconds,saved_path
+Turbothrill (12).mp4,17,0.567,0.7221,32,19.5,360x640,0.00148,spark_0017.jpg
+Turbothrill (12).mp4,34,1.133,0.7249,39,22.0,360x640,0.0015,spark_0034.jpg
+Turbothrill (12).mp4,54,1.8,0.7991,10,4.5,360x640,0.00125,spark_0054.jpg
+Turbothrill (12).mp4,129,4.3,0.413,15,4.0,360x640,0.00138,spark_0129.jpg
+Turbothrill (12).mp4,164,5.467,0.6108,290,212.5,360x640,0.00169,spark_0164.jpg
+Turbothrill (12).mp4,188,6.267,0.698,55,25.5,360x640,0.00185,spark_0188.jpg

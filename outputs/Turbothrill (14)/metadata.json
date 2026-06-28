@@ -1,0 +1,13 @@
+[
+    {
+        "video_name": "Turbothrill (14).mp4",
+        "frame_number": 1,
+        "timestamp_seconds": 0.033,
+        "spark_confidence": 0.7351,
+        "spark_pixel_count": 1166,
+        "spark_area": 803.5,
+        "resolution": "360x640",
+        "processing_time_seconds": 0.00277,
+        "saved_path": "spark_0001.jpg"
+    }
+]
